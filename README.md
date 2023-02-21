@@ -14,7 +14,9 @@
 </br>
 
 <p float="left" align="center">
-TELAS DO APLICATIVO. FOQUE EM MOSTRAR O QUE É BONITO E IMPORTANTE NO SEU APLICATIVO
+<img alt="screenshot" width="30%" src="screenshots/screenshots-1.jpeg"/>
+<img alt="screenshot" width="30%" src="screenshots/screenshots-1.jpeg"/>
+<img alt="screenshot" width="30%" src="screenshots/screenshots-1.jpeg"/>
 </p>
 
 ## Download
