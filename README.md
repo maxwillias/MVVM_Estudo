@@ -7,7 +7,7 @@
 
 <p align="center">  
 
-⭐ Esse é um projeto que foi criado no instuito de aprender mais sobre a arquitetura MVVM (View - ViewModel - Model), o aplicativo foi criado seguindo os passos da live do Kaique Ocanha (https://www.youtube.com/live/Gf5VEBQQzrk?feature=share).
+⭐ Esse é um projeto que foi criado no intuito de aprender mais sobre a arquitetura MVVM (View - ViewModel - Model), o aplicativo foi criado seguindo os passos da live do Kaique Ocanha (https://www.youtube.com/live/Gf5VEBQQzrk?feature=share).
 
 </p>
 
